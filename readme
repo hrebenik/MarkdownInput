@@ -1,0 +1,6 @@
+React, Material UI
+
+Markdown Input. A text field with the ability to use Markdown formatting. Result
+formatting is displayed when the focus is lost on the text field.
+
+Styles are applied according to project requirements.
